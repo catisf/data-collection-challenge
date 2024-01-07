@@ -1,8 +1,7 @@
 # data-collection-challenge
 Challenge 11 of UoB Data Analytics bootcamp - data collection (web scrapping Mars data)
 
-![Photo of Mars Rover](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/pexels-kaboompics-com-6399.jpg](https://github.com/catisf/data-collection-challenge/blob/main/mars_rover.jpg)
-
+![Photo of Mars Rover](https://github.com/catisf/data-collection-challenge/blob/main/mars_rover.jpg)
 
 ## About the repository:
 This repository contains:
