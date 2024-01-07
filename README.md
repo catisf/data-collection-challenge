@@ -1,5 +1,5 @@
 # data-collection-challenge
-Challenge 11 of UoB Data Analytics bootcamp - data collection (web scrapping)
+Challenge 11 of UoB Data Analytics bootcamp - data collection (web scrapping Mars data)
 
 ## About the repository:
 This repository contains:
