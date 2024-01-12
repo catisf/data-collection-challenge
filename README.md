@@ -32,7 +32,7 @@ In order to run the repository you will need to install/import the following dep
   - Create a Beautiful Soup object and use it to scrape the data in the HTML table
   - Assemble the scraped data into a Pandas DataFrame. The columns should have the same headings as the table on the website
   - Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
-  - Analyze your dataset by using Pandas functions to answer the following questions:
+  - Analyze the dataset by using Pandas functions to answer the following questions:
     - How many months exist on Mars?
     - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
     - What are the coldest and the warmest months on Mars (at the location of Curiosity)?
