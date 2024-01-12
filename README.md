@@ -8,7 +8,17 @@ This repository contains:
 - Jupyter Notebook ['part_1_mars_news.ipynb'](https://github.com/catisf/data-collection-challenge/blob/main/part_1_mars_news.ipynb), which scrapes news articles from [Mars Planet Science](https://static.bc-edx.com/data/web/mars_news/index.html)
 - Jupyter Notebook ['part_2_mars_weather.ipynb'](https://github.com/catisf/data-collection-challenge/blob/main/part_2_mars_weather.ipynb) which scrapes a [table of Mars temperature data](https://static.bc-edx.com/data/web/mars_facts/temperature.html), analyses it and saves it in the csv file ['mars_data.csv'](https://github.com/catisf/data-collection-challenge/blob/main/mars_data.csv)
 
+In order to run the repository you will need to install/import the following dependencies
+- splinter
+- bs4 (BeautifulSoup)
+- matplotlib
+- pandas
+
 # About the challenge:
+## Objectives:
+- Deliverable 1: Scrape titles and preview text from Mars news articles (['part_1_mars_news.ipynb'](https://github.com/catisf/data-collection-challenge/blob/main/part_1_mars_news.ipynb)).
+- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table (['part_2_mars_weather.ipynb'](https://github.com/catisf/data-collection-challenge/blob/main/part_2_mars_weather.ipynb)).
+  
 ## Part 1: Scrape Titles and Preview Text from Mars News
 - Using jupyter notebook ['part_1_mars_news.ipynb'](https://github.com/catisf/data-collection-challenge/blob/main/part_1_mars_news.ipynb), which scrapes news articles from [Mars Planet Science](https://static.bc-edx.com/data/web/mars_news/index.html):
   - Use automated browsing to visit the Mars news siteLinks to an external site. Inspect the page to identify which elements to scrape.
